@@ -11,7 +11,6 @@ This project investigates the application of graph representation techniques to 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -88,10 +87,3 @@ predictions = model.predict(new_drugs, new_proteins)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/32279206/caac9f3e-54c6-4d9e-aced-00a31bbb9c7c/Project_Milestone_Report.pdf
